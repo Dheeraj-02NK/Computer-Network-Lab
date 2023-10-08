@@ -1,4 +1,3 @@
 # Computer-Network-Lab
-Cisco Packet Tracer
 
-Computer communication and Networking 
+Computer communication and Networking Laboratory in Cisco Packet Tracer
